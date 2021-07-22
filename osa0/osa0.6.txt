@@ -1,0 +1,7 @@
+elain->palvelin: HTTP POST: https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+palvelin->selain: palvelin tallentaa annetun datan JSON tyyppinä. Ei uudelleenohjausta.
+
+note over selain
+SPA-versiossa lomakkeen tietojen lähettämisen
+hoitaa selaimen lataamassa JavaScript-tiedostoissa
+määritelty koodi.
